@@ -11,16 +11,17 @@
 * Open the site 
 * To view blog;
     * Click on blog title.
-* To comment on a blog:
-    * Click on the write comment button and you will be able to write a comment.
-* To view comments on blog, click the toggle button
+
 
 
 
 ## Technologies used
 * HTML
+
 * CSS
+
 * FLASK(PYTHON)
+
 ###### Deployment
 * HEROKU
 
