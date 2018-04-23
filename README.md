@@ -8,7 +8,7 @@
 * Good internet connection
 
 ## How to use
-* Open the site - link [here](https://github.com/myblog)
+* Open the site 
 * To view blog;
     * Click on blog title.
 * To comment on a blog:
